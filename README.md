@@ -8,3 +8,4 @@ The Horiseon company was having some website fucitonality and accessability (a11
 https://jcc377.github.io/Chaudhari_HW1/Homework1
 
 ## ScreenShot:
+![Screenshot 2020-12-20 001552](https://user-images.githubusercontent.com/75392965/102705742-c4b9d380-4258-11eb-8673-d75cbbab669d.jpg)
